@@ -1,4 +1,4 @@
-[gregoryedgerton.com](http://gregoryedgerton.com) next release ~~2020~~, ~~2021~~, **2022** ... _what is time?_ 
+[gregoryedgerton.com](http://gregoryedgerton.com)
 
 <!---
 gregoryedgerton/gregoryedgerton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
