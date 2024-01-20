@@ -1,4 +1,4 @@
-[gregoryedgerton.com](http://gregoryedgerton.com)
+I launched [gregoryedgerton.com](http://gregoryedgerton.com) a few weeks before COVID-19 lockdowns began. Suddenly self promotion became a lot less important. I'm still porud of it, but it's gona bit stale. Bio kinda cringy in retrospect but its still from the heart so I won't run from it. That's me. I have so much more to show but that will be for another time. New site brewin'  
 
 <!---
 gregoryedgerton/gregoryedgerton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
