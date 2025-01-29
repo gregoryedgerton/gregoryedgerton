@@ -6,7 +6,7 @@ I launched [gregoryedgerton.com](http://gregoryedgerton.com) a few weeks before 
 - **Project Guilt**: an [Etherum NFT](https://ethereum.org/en/nft/) project
 
 ## 2020-2024
-Spent too much time give my soul to the corporate grid and not enough time feeding balancing my passions. Several projects started but nothing released. Spent my nights becoming a better `Software Engineer` > `Senior Software Engineer` > `Software Engineering Manager` for a fortune 100.
+Spent too much time giving my soul to the corporate grid and not enough time feeding balancing my passions. Several projects started but nothing released. Spent my nights becoming a better `Software Engineer` > `Senior Software Engineer` > `Software Engineering Manager` for a fortune 100.
 
 ## 2001-2019
 18yrs on the other side editing, desiging, and coding in a semi-chronological order. `Hungman Productions`, `Sine Design`, `Kyle and Greg`, `No Milk Records`, `Macabre Studios`, `Rock Picture Sciossors`, `Merovingian Music`, `MRV Music`, `Skiprock`, `Merovee Records`, `Humble Humans`, `Bands on a Budget`, `The Hip-Hop Institute at the Boys & Girls Club`, `Cowerks`, `Restore the Shore`, `Sprockets`, `Merchwerks`, `Fresh Markets`
