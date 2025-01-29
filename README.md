@@ -1,4 +1,4 @@
-I launched [gregoryedgerton.com](http://gregoryedgerton.com) a few weeks before COVID-19 lockdowns began in Q1 of 2020. Suddenly self-promotion became a lot less important. I'm still proud of it, but it's will be retired this year in favor of new passions.
+I launched [gregoryedgerton.com](http://gregoryedgerton.com) a few weeks before COVID-19 lockdowns began in Q1 of 2020. Suddenly self-promotion became a lot less important.
 
 ## 2025 Projects
 - **[Golden Grids](https://github.com/gregoryedgerton/golden-grids)**: an open-source library for generating grids that challenge the status quo
