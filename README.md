@@ -1,7 +1,6 @@
 ## 2025 Projects
 - **[Golden Grids](https://github.com/gregoryedgerton/golden-grids)**: an open-source library for generating grids that challenge the status quo
 - **No Regerts**: a [Bitcoin Ordinal](https://www.bitcoin.com/get-started/what-are-bitcoin-ordinals/) project
-- **Project Guilt**: an [Etherum NFT](https://ethereum.org/en/nft/) project
 
 ## Q2 2020-2024
 Turned my focus to the corporate grind, still there but but reclaiming the moonlight. Several projects started but nothing released. Spent my nights becoming a better `Software Engineer` > `Senior Software Engineer` > `Software Engineering Manager` for a fortune 100.
