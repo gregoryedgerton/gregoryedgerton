@@ -9,7 +9,7 @@ Turned my focus to the corporate grind, still there but but reclaiming the moonl
 I launched [gregoryedgerton.com](http://gregoryedgerton.com) a few weeks before COVID-19 lockdowns began in Q1 of 2020 after nearly 2 decades of entrepreneurialism. Suddenly self-promotion became a lot less important. Made an edit it 2021 to the bio, thats about it. I think its a good relfection of the decade that proceeded it.
 
 ## 2001-2019
-18yrs of passion on the other side editing, desiging, and coding expressed as an array of strings in reverse chronological order.
+18yrs of passion on the other side editing, designing, and coding expressed as an array of strings in reverse chronological order.
 [ `Merchwerks`, `Fresh Markets`, `Sprockets`, `The Hip-Hop Institute at the Boys & Girls Club`, `Cowerks`, `Restore the Shore`, `Bands on a Budget`, `Humble Humans`, `Merovee Records`, `Skiprock`, `MRV Music`, `Merovingian Music`, `Rock Picture Sciossors`, `Steal Clothing`, `Macabre Studios`, `No Milk Records`,  `Kyle and Greg`, `Sine Design`, `Hungman Productions` ]
 
 <!---
