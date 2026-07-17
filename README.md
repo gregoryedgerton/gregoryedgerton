@@ -8,7 +8,7 @@
 ## Q3 2020-2025
 Turned my focus to the corporate grind, still there but but reclaiming the moonlight. Several projects started but nothing released. Spent my nights becoming a better `Software Engineer` > `Senior Software Engineer` > `Software Engineering Manager` for a fortune 100.
 
-##Q2 2020
+## Q2 2020
 I launched [consbrgs.com](https://consbrgs.com/) the week before I joined Northwestern Mutual during a 2am-5am cut over window. Consolidated Bearings is one the of the nations largest ball bearing suppliers and was an early adopter of the web having digitized their catalog in the 90s. This project began as a Humble Humans effort in 2017 as the team migrated a legacy .net system to a modern CMS with over 20k products and 53k taxonomies terms exported as raw data, restructured and ported over. Data integrity was paramount to its success and extensive validations was done. The site remains in my care and slated for another migration to another vendor in 2027.
 
 ## Q1 2020
