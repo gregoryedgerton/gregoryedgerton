@@ -1,11 +1,11 @@
-## 2025-2026 Projects
+## 2026 Projects
+- **[Dish Stackin'](https://dishstackin.com/)**: A game of precision and purpose.
+
 - **[Golden Grids](https://github.com/gregoryedgerton/golden-grids)**: an open-source library for generating grids that challenge the status quo.
   
 - **No Regerts**: a series of [Bitcoin Ordinal](https://www.bitcoin.com/get-started/what-are-bitcoin-ordinals/) inscriptions [coming soon].
 
-- **Dish Stack**: Tetris for your dishes! [coming soon].
-
-## Q2 2020-2024
+## Q2 2020-2025
 Turned my focus to the corporate grind, still there but but reclaiming the moonlight. Several projects started but nothing released. Spent my nights becoming a better `Software Engineer` > `Senior Software Engineer` > `Software Engineering Manager` for a fortune 100.
 
 ## Q1 2020
